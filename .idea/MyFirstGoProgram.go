@@ -11,4 +11,6 @@ func main() {
 	fmt.Println("Feature 2 added")
 
 	fmt.Println("feature added 3")
+
+	fmt.Println("new feature added")
 }
